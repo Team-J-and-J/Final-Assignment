@@ -1,0 +1,5 @@
+Who are your team members? Names & surnames. Jaiden Nicholson & Jenny Wirries
+What are the modifications you made to the game? We added a speed boost to the game, while also adding a short recharge time period after every single use. There is a lemon icon on the screen to show whether the boost is active or not.
+What's the biggest challenge you have so far? The biggest challenge faced was figuring out the post processing throughout the entire project. Seeing as the lesson was using a different version of unity, it took about an hour or so to figure out why the post processing wasn't showing up fully.
+Will you continue working on this assignment? If yes, what might be some changes you will add later? No this is final version of this assignment. If there were changes we wanted to implement would maybe be a UI for the game.
+Google Drive link: https://drive.google.com/file/d/1GJ7-esGgayevVlmYyyWh-GSbPGWhbWIr/view?usp=sharing
